@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "482088153338",
+    "project_id": "cyberpench",
+    "storage_bucket": "cyberpench.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482088153338:android:2cc91127a56162f9655943",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482088153338-ps8754v8gfqql6crluhnpgflf71bc0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CklCrflgWIy5hS511ym2vVlzuOfFHG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482088153338-ps8754v8gfqql6crluhnpgflf71bc0an.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482088153338-0ofol2s85qiii6eq0rd0no2ua9fu85h9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
